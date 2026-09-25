@@ -1,5 +1,5 @@
-FITLOG
-A modern, responsive web application built to help users discover, plan, and track their daily workouts. FITLOG allows fitness enthusiasts to browse a library of exercises, curate a daily workout routine, and save favorite routines for later — all while tracking estimated calories and workout duration.
+# FITLOG
+# A modern, responsive web application built to help users discover, plan, and track their daily workouts. FITLOG allows fitness enthusiasts to browse a library of exercises, curate a daily workout routine, and save favorite routines for later — all while tracking estimated calories and workout duration.
 
 🚀 Features
 1. Daily Workout Planning — Add up to 5 workouts to your "Today's Plan" to keep your daily fitness goals focused and achievable.
