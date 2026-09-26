@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 \*FITLOG
 \*A modern, responsive web application built to help users discover, plan, and track their daily workouts. FITLOG allows fitness enthusiasts to browse a library of exercises, curate a daily workout routine, and save favorite routines for later — all while tracking estimated calories and workout duration.
+=======
+# FITLOG
+# A modern, responsive web application built to help users discover, plan, and track their daily workouts. FITLOG allows fitness enthusiasts to browse a library of exercises, curate a daily workout routine, and save favorite routines for later — all while tracking estimated calories and workout duration.
+>>>>>>> fed09b7a00f120317e841d571a383476af43d6f2
 
 🚀 Features
 
@@ -15,9 +20,17 @@
 
 1. Frontend Framework: Next.js (App Router) / React
 2 .Styling: Tailwind CSS
+<<<<<<< HEAD
 2. UI Components: DaisyUI
 3. Icons: Lucide React
 4. State Management: React Context API
 5. Data Persistence: Browser Local Storage
 6. Data Fetching: Next.js Server Components with caching control
 
+=======
+3. UI Components: DaisyUI
+4. Icons: Lucide React
+5. State Management: React Context API
+6. Data Persistence: Browser Local Storage
+7. Data Fetching: Next.js Server Components with caching control
+>>>>>>> fed09b7a00f120317e841d571a383476af43d6f2

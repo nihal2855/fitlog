@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Banner_image from '@/assets/banner.png';
+import Link from "next/link";
 
 const Banner = () => {
     return (
@@ -19,9 +20,9 @@ const Banner = () => {
                             lock it into today's plan, and watch the week's work add up.
                         </p>
                         <div className="mt-7">
-                            <button className="rounded-md bg-lime-400 px-6 py-3 text-sm font-bold uppercase tracking-wide text-black transition-all duration-200 hover:bg-lime-300 hover:-translate-y-0.5">
+                            <Link href='/workouts' className="rounded-md bg-lime-400 px-6 py-3 text-sm font-bold uppercase tracking-wide text-black transition-all duration-200 hover:bg-lime-300 hover:-translate-y-0.5">
                                 Browse Workouts
-                            </button>
+                            </Link>
                         </div>
                     </div>
                     <div className="relative flex items-end justify-center md:justify-end min-h-[280px] md:min-h-0">
