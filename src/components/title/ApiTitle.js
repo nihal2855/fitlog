@@ -10,4 +10,5 @@ const ApiTitle = () => {
         </div>
     </>);
 };
+
 export default ApiTitle;
